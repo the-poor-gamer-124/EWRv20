@@ -4,6 +4,7 @@
 
 * A web server with mod_rewrite enabled
 * At least PHP 5.5 (it might change after designing the dashboard)
+* A MySQL / MariaDB server
 * The following PHP modules: curl, session, mysqli (it might change after designing the dashboard)
 
 ### Installation
