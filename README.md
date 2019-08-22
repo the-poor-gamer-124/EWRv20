@@ -1,5 +1,5 @@
 # Ergastolator Website Redesign v20 Source Code
-<hr />
+
 ### Requirements
 
 * A web server with mod_rewrite enabled
