@@ -10,7 +10,7 @@
 Just upload all the files in your public_html / htdocs / yourdomain folder. If you don't want the registration and login feature, remove register.php, registerSuccess.php, login.php and activate.php from the files list. If you want to use the registration feature, sign up for a Google account, go to google.com/recaptcha and click on "Admin console", then add a new website, and on the register.php file, on `data-sitekey` change the default value to the new site key, and on `secret` put the new secret key, then change the mails and messages added in there with your own (if you at least know how to code using PHP). After that, if you don't want to use the registration feature, don't edit the database. If you want to use it, use this command on the phpMyAdmin / MySQL CLI interface on the database to add the necessary table and fields:
 ```
 CREATE TABLE users (
-	id INT NOT NULL PRIMARY KEY AUTO_INCREMENT;
+	id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
         username VARCHAR(50) NOT NULL UNIQUE,
         password VARCHAR(255) NOT NULL,
         email VARCHAR(100) NOT NULL UNIQUE,
