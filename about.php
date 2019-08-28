@@ -8,7 +8,7 @@
 		<title>About &mdash; Ergastolator Website Redesign v20</title>
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
-		<meta name="author" content="ErgastolatorOfficial 1" />
+		<meta name="author" content="SuperFox" />
 		<meta property="og:title" content="About" />
 		<meta property="og:description" content="" />
 		<meta property="og:type" content="website" />
@@ -17,8 +17,8 @@
 		<meta property="og:image:type" content="image/jpeg" />
 		<meta property="og:image:width" content="512" />
 		<meta property="og:image:height" content="512" />
-		<meta property="og:site_name" content="Ergastolator Website Redesign v20" />
-		<meta property="og:url" content="https://ergastolator.website" />
+		<meta property="og:site_name" content="SuperFox" />
+		<meta property="og:url" content="https://superfox.cf" />
 		<meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, maximum-scale=1" />
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
 		<link rel="stylesheet" href="css/materialize.min.css" />
@@ -117,8 +117,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col l6 s12">
-						<h5 class="white-text">About Ergastolator</h5>
-						<p class="grey-text text-lighten-4">Lorem ipsum dolor sit amet, consectetur adolipscing elit.</p>
+						<h5 class="white-text">Thanks for visiting this website</h5>
 					</div>
 					<div class="col l3 s12">
 						<h5 class="white-text">Menu</h5>
@@ -153,7 +152,7 @@
 			</div>
 			<div class="footer-copyright">
 				<div class="container">
-					<p>&copy; 2019-<?php echo date("Y"); ?> ErgastolatorOfficial1. All rights reserved. Powered by <a href="https://materializecss.com" target="_blank">Materialize</a>.</p>
+					<p>&copy; 2019-<?php echo date("Y"); ?> SuperFox . Some rights reserved. Powered by <a href="https://materializecss.com" target="_blank">Materialize</a>.</p>
 				</div>
 			</div>
 		</footer>
@@ -161,4 +160,4 @@
 		<script src="js/materialize.min.js"></script>
 		<script src="js/custom.js"></script>
 	</body>
-</html>
+</html>c
