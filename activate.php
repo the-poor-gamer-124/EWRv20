@@ -14,21 +14,21 @@ if (isset($_GET['email'], $_GET['code'])) {
 <!DOCTYPE HTML>
 <html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 	<head>
-		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-		<title>Activate &mdash; Ergastolator Website Redesign v20</title>
+				<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<title>Activate &mdash; SuperFox</title>
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
-		<meta name="author" content="ErgastolatorOfficial 1" />
+		<meta name="author" content="SuperFox" />
 		<meta property="og:title" content="Activate" />
 		<meta property="og:description" content="" />
 		<meta property="og:type" content="website" />
-		<meta property="og:image" content="http://yt3.ggpht.com/a-/AAuE7mCCGGlEWQgWXgodYbEQ0Gxn_ara5wV1JU0qzw=s512-c-k-c0x00ffffff-no-rj-mo" />
-		<meta property="og:image:secure_url" content="https://yt3.ggpht.com/a-/AAuE7mCCGGlEWQgWXgodYbEQ0Gxn_ara5wV1JU0qzw=s512-c-k-c0x00ffffff-no-rj-mo" />
+		<meta property="og:image" content="http://cdn.discordapp.com/avatars/534387780076306432/6060f186dc07f1a16097653c45a88cb5.png?size=256" />
+		<meta property="og:image:secure_url" content="https://cdn.discordapp.com/avatars/534387780076306432/6060f186dc07f1a16097653c45a88cb5.png?size=256" />
 		<meta property="og:image:type" content="image/jpeg" />
 		<meta property="og:image:width" content="512" />
 		<meta property="og:image:height" content="512" />
-		<meta property="og:site_name" content="Ergastolator Website Redesign v20" />
-		<meta property="og:url" content="https://ergastolator.website" />
+		<meta property="og:site_name" content="SuperFox" />
+		<meta property="og:url" content="https://superfox.cf" />
 		<meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, maximum-scale=1" />
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
 		<link rel="stylesheet" href="css/materialize.min.css" />
@@ -38,7 +38,7 @@ if (isset($_GET['email'], $_GET['code'])) {
 		<nav style="background:#1a1a1a" role="navigation">
 			<div class="nav-wrapper container">
 				<a id="logo-container" href="./" class="brand-logo">
-					<img src="https://yt3.ggpht.com/a-/AAuE7mCCGGlEWQgWXgodYbEQ0Gxn_ara5wV1JU0qzw=s64-c-k-c0x00ffffff-no-rj-mo" alt="eo1_logo" />
+					<img src="https://cdn.discordapp.com/avatars/534387780076306432/6060f186dc07f1a16097653c45a88cb5.png?size=256" alt="eo1_logo" />
 				</a>
 				<ul class="right hide-on-med-and-down">
 					<li>
