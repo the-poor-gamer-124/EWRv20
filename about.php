@@ -5,15 +5,15 @@
 <html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-		<title>About &mdash; Ergastolator Website Redesign v20</title>
+		<title>About &mdash; SuperFox</title>
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
 		<meta name="author" content="SuperFox" />
 		<meta property="og:title" content="About" />
 		<meta property="og:description" content="" />
 		<meta property="og:type" content="website" />
-		<meta property="og:image" content="http://yt3.ggpht.com/a-/AAuE7mCCGGlEWQgWXgodYbEQ0Gxn_ara5wV1JU0qzw=s512-c-k-c0x00ffffff-no-rj-mo" />
-		<meta property="og:image:secure_url" content="https://yt3.ggpht.com/a-/AAuE7mCCGGlEWQgWXgodYbEQ0Gxn_ara5wV1JU0qzw=s512-c-k-c0x00ffffff-no-rj-mo" />
+		<meta property="og:image" content="http://cdn.discordapp.com/avatars/534387780076306432/6060f186dc07f1a16097653c45a88cb5.png?size=256" />
+		<meta property="og:image:secure_url" content="https://cdn.discordapp.com/avatars/534387780076306432/6060f186dc07f1a16097653c45a88cb5.png?size=256" />
 		<meta property="og:image:type" content="image/jpeg" />
 		<meta property="og:image:width" content="512" />
 		<meta property="og:image:height" content="512" />
@@ -28,7 +28,7 @@
 		<nav style="background:#1a1a1a" role="navigation">
 			<div class="nav-wrapper container">
 				<a id="logo-container" href="./" class="brand-logo">
-					<img src="https://yt3.ggpht.com/a-/AAuE7mCCGGlEWQgWXgodYbEQ0Gxn_ara5wV1JU0qzw=s64-c-k-c0x00ffffff-no-rj-mo" alt="eo1_logo" />
+					<img src="https://cdn.discordapp.com/avatars/534387780076306432/6060f186dc07f1a16097653c45a88cb5.png?size=256" alt="eo1_logo" />
 				</a>
 				<ul class="right hide-on-med-and-down">
 					<li>
@@ -94,7 +94,7 @@
 					<br />
 					<h1 class="header center white-text text-lighten-1">About Ergastolator</h1>
 					<div class="row center">
-						<h5 class="header col s12 light">Something regarding the creator and his last hand-made redesign.</h5>
+						<h5 class="header col s12 light">Something regarding the creator.</h5>
 					</div>
 				</div>
 			</div>
@@ -108,8 +108,8 @@
 					<h4>About me</h4>
 				</div>
 				<div class="col l8 s14">
-					<p>I'm an almost 15 years old boy that obviously created his first website in 2017 and, seen that he doesn't know how to make menus, he had a bit of help, to then create his last redesign done using a CSS framework with his knowledge.</p>
-					<p>I also decided the hosting for this kind of websites; before it was done using 000webhost and a free .tk domain from Freenom, but seen that the new hosting that I now use doesn't support .tk domains, there I am with a free .ga domain and a gTLD that I paid &euro;1.49, all that point to this new hosting.</p>
+					<p>I am an romanian guy that just does some stuff .</p>
+					<p>My frist website was hosted on 000webhost,but because it was slow i moved to Infinityfree and then made my own MOFH website PortaHost.</p>
 				</div>
 			</div>
 		</div>
