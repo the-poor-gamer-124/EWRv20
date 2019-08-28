@@ -5,20 +5,20 @@
 <html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-		<title>Contacts &mdash; Ergastolator Website Redesign v20</title>
+		<title>About &mdash; SuperFox</title>
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
-		<meta name="author" content="ErgastolatorOfficial 1" />
-		<meta property="og:title" content="Contacts" />
+		<meta name="author" content="SuperFox" />
+		<meta property="og:title" content="About" />
 		<meta property="og:description" content="" />
 		<meta property="og:type" content="website" />
-		<meta property="og:image" content="http://yt3.ggpht.com/a-/AAuE7mCCGGlEWQgWXgodYbEQ0Gxn_ara5wV1JU0qzw=s512-c-k-c0x00ffffff-no-rj-mo" />
-		<meta property="og:image:secure_url" content="https://yt3.ggpht.com/a-/AAuE7mCCGGlEWQgWXgodYbEQ0Gxn_ara5wV1JU0qzw=s512-c-k-c0x00ffffff-no-rj-mo" />
+		<meta property="og:image" content="http://cdn.discordapp.com/avatars/534387780076306432/6060f186dc07f1a16097653c45a88cb5.png?size=256" />
+		<meta property="og:image:secure_url" content="https://cdn.discordapp.com/avatars/534387780076306432/6060f186dc07f1a16097653c45a88cb5.png?size=256" />
 		<meta property="og:image:type" content="image/jpeg" />
 		<meta property="og:image:width" content="512" />
 		<meta property="og:image:height" content="512" />
-		<meta property="og:site_name" content="Ergastolator Website Redesign v20" />
-		<meta property="og:url" content="https://ergastolator.website" />
+		<meta property="og:site_name" content="SuperFox" />
+		<meta property="og:url" content="https://superfox.cf" />
 		<meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, maximum-scale=1" />
 		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
 		<link rel="stylesheet" href="css/materialize.min.css" />
@@ -28,7 +28,7 @@
 		<nav style="background:#1a1a1a" role="navigation">
 			<div class="nav-wrapper container">
 				<a id="logo-container" href="./" class="brand-logo">
-					<img src="https://yt3.ggpht.com/a-/AAuE7mCCGGlEWQgWXgodYbEQ0Gxn_ara5wV1JU0qzw=s64-c-k-c0x00ffffff-no-rj-mo" alt="eo1_logo" />
+					<img src="https://cdn.discordapp.com/avatars/534387780076306432/6060f186dc07f1a16097653c45a88cb5.png?size=256" alt="eo1_logo" />
 				</a>
 				<ul class="right hide-on-med-and-down">
 					<li>
@@ -131,8 +131,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col l6 s12">
-						<h5 class="white-text">About Ergastolator</h5>
-						<p class="grey-text text-lighten-4">Lorem ipsum dolor sit amet, consectetur adolipscing elit.</p>
+						<h5 class="white-text">Thanks for visiting my website.</h5>
 					</div>
 					<div class="col l3 s12">
 						<h5 class="white-text">Menu</h5>
@@ -167,7 +166,7 @@
 			</div>
 			<div class="footer-copyright">
 				<div class="container">
-					<p>&copy; 2019-<?php echo date("Y"); ?> ErgastolatorOfficial1. All rights reserved. Powered by <a href="https://materializecss.com" target="_blank">Materialize</a>.</p>
+					<p>&copy; 2019-<?php echo date("Y"); ?> SuperFox.Some rights reserved. Powered by <a href="https://materializecss.com" target="_blank">Materialize</a>.</p>
 				</div>
 			</div>
 		</footer>
