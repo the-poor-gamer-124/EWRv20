@@ -5,11 +5,11 @@
 <html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 	<head>
 				<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-		<title>Contacts &mdash; SuperFox</title>
+		<title>Success &mdash; SuperFox</title>
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
 		<meta name="author" content="Contacts" />
-		<meta property="og:title" content="About" />
+		<meta property="og:title" content="Success" />
 		<meta property="og:description" content="" />
 		<meta property="og:type" content="website" />
 		<meta property="og:image" content="http://cdn.discordapp.com/avatars/534387780076306432/6060f186dc07f1a16097653c45a88cb5.png?size=256" />
